@@ -1,0 +1,206 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "87319E94-453E-41B7-B19B-984920AC200C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 707,
+  "clippingMaskMode": 0,
+  "do_objectID": "06E56B2F-BBC5-4107-8B3B-2B3BDCEC4B44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A355B2F2-4FF2-4BAD-B321-AFB34BC4BDBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E83A6719-18C4-4A31-8735-42A542F30AB5",
+    "height": 60,
+    "width": 744,
+    "x": 6431,
+    "y": 525
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "90AC8041-ACF7-4B75-A622-2916563CD69A"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0F85EA00-DD3E-4D55-A7DA-FCAC19975435",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "026B945C-5BA2-4D1A-A44F-FF4CE8F7318C"
+    },
+    {
+      "class": "text",
+      "id": "2A471B5F-F1FE-4178-BAE3-D7B661337FAC"
+    },
+    {
+      "class": "text",
+      "id": "0D491176-932B-4E22-8513-3CAF41DDF1BB"
+    },
+    {
+      "class": "text",
+      "id": "C3B09209-8516-4CFF-82DE-AA3BBB210DBA"
+    },
+    {
+      "class": "text",
+      "id": "DFD63B55-1FF8-4382-9FA9-9F9463142258"
+    },
+    {
+      "class": "text",
+      "id": "0E4CC7A7-B160-4FE4-9BBE-5906795BB7FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A86E026-FB03-4F93-998D-8057DFAA1E47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4435A31A-929E-4189-BFBD-061E82FD4387"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "513714B3-908D-48D3-8BF0-32C9CC54228C"
+    },
+    {
+      "class": "group",
+      "id": "9758E59D-FBF0-41DB-B108-8EA0E0FA5BE0"
+    },
+    {
+      "class": "group",
+      "id": "D7DDB488-53AC-4524-965C-87B1B8ED5A52"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Device - Navigation Menu Ports",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DFD63B55-1FF8-4382-9FA9-9F9463142258_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "513714B3-908D-48D3-8BF0-32C9CC54228C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4435A31A-929E-4189-BFBD-061E82FD4387_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E4CC7A7-B160-4FE4-9BBE-5906795BB7FB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0D491176-932B-4E22-8513-3CAF41DDF1BB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C3B09209-8516-4CFF-82DE-AA3BBB210DBA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2A471B5F-F1FE-4178-BAE3-D7B661337FAC_stringValue"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A888995D-25DC-4670-9872-13397DC51EC4",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59C697B2-ADCD-4949-B36D-465FBA17E516",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E775DC2-396A-4415-B0AF-2C7F321ECB52",
+    "guides": [
+    ]
+  }
+}

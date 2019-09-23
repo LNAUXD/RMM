@@ -1,0 +1,120 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DD7DC5E-0028-494C-8781-8177BC817807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 717,
+    "x": 294,
+    "y": 515
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9C78F0AC-3B88-47C4-AE84-7F32B1BB655A"
+    },
+    {
+      "class": "text",
+      "id": "F12619DA-FF5E-4654-AB29-F2084ABB242C"
+    },
+    {
+      "class": "text",
+      "id": "99AAD2BE-2652-42DB-ADB1-0CE802CB3849"
+    },
+    {
+      "class": "text",
+      "id": "341E59D4-0841-407B-A357-A24BF4C89C2F"
+    },
+    {
+      "class": "text",
+      "id": "C547DC4C-DEBF-4AB5-A833-9633A5DB9FA6"
+    },
+    {
+      "class": "text",
+      "id": "8F1FDCDC-5C5A-4536-A758-D50B6B0F6CEB"
+    },
+    {
+      "class": "text",
+      "id": "ED88CAC7-118F-4EBC-AD41-80F7B816C3DC"
+    },
+    {
+      "class": "group",
+      "id": "3D00C127-ED0F-41B4-B596-E37130B22CF0"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "NuVo P400",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

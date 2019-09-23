@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "736FD007-98BC-46AF-A112-0E2A69D9029E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D9AE814-EBB9-4715-85F1-F1BB04DD5F33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91639F29-8713-4982-8B1C-5D74CEF1D548",
+    "height": 180,
+    "width": 150,
+    "x": 748,
+    "y": 306
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A3C558EE-1B92-4EE0-A0BF-96028C07FBBB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "98F62BA5-CF1A-41FC-907F-9396C3965B47"
+    },
+    {
+      "class": "group",
+      "id": "AAE751D0-F5F7-4511-99EF-59D6686E8112"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D173910-920A-40E4-B126-C8FA87C3F0A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "F00A8DA1-1632-4CC5-8F19-6A6A3BA669F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "20410ACC-B69D-424F-950A-59567867265F"
+    },
+    {
+      "class": "text",
+      "id": "076B0CE4-9AF8-4615-A7B7-3A6FE17C2BFC"
+    },
+    {
+      "class": "text",
+      "id": "F6C69179-AB61-427B-AC2C-5B2384A912B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "A88BA392-5565-485B-8303-673D1CB6562C"
+    },
+    {
+      "class": "text",
+      "id": "82DAFE65-704B-40F7-B377-54183C989D23"
+    },
+    {
+      "class": "text",
+      "id": "F32A612B-22FF-4FC9-BA26-4D5325A4B508"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C034D20F-E92C-4CEB-83B0-77061C29BC7D"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Drop Down Menu Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8CC4443B-EB6A-439F-815D-747969BEE0EB",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

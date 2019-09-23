@@ -1,0 +1,174 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A9B96737-6131-42CA-B8DC-D6D0FE50287B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE5FBAA2-350F-4EB6-82F4-0D9383384B2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE1B203C-3021-4013-B736-B8C1399ABF76",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B05522B-F819-43A0-BB25-BD8697DCA992",
+    "height": 1024,
+    "width": 1024,
+    "x": -1088,
+    "y": -1002
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "325735A2-3512-4D8F-8976-DBEDF09EF30E"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C2C51DA-10D8-4E0F-A5CA-18E25C50F816",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D8A1817B-6FC5-4AB9-9B86-CD1EA9298146"
+    },
+    {
+      "class": "group",
+      "id": "0630CBF5-B145-4877-B539-449E90003042"
+    },
+    {
+      "class": "group",
+      "id": "61A0558A-4A02-49AA-B035-FA7CB952AB13"
+    },
+    {
+      "class": "group",
+      "id": "1988E422-AA9A-433F-B44A-4CAB294F89DB"
+    },
+    {
+      "class": "group",
+      "id": "313B576B-8E7D-4D3F-A349-C3356EFA58AA"
+    },
+    {
+      "class": "group",
+      "id": "DC992699-C480-499B-BE13-4EE57E2D98E3"
+    },
+    {
+      "class": "group",
+      "id": "103E3A19-92B0-426A-8C62-744A28C80238"
+    },
+    {
+      "class": "shapePath",
+      "id": "02CF6419-098C-4A3C-BD1B-E327803C7DFC"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "B6BDB133-F286-4A9F-BECD-3952DA705F70"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "057DE704-4A5A-4102-8E34-2C0D27BAD3B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95BCFF2E-59CA-4AB7-86CD-B6959896E5DE"
+    },
+    {
+      "class": "group",
+      "id": "F2F0A9F4-6BD8-4376-9C87-204E9985127A"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Desktop - Listed",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "8310B5A3-A290-4691-907C-509681AD09AE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E8EBC776-75FD-4613-B937-A839EEA2A13F",
+    "guides": [
+    ]
+  }
+}

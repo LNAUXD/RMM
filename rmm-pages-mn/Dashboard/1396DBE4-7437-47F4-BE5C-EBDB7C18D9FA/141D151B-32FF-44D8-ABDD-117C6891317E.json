@@ -1,0 +1,136 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "141D151B-32FF-44D8-ABDD-117C6891317E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 728,
+    "width": 281,
+    "x": 0,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Side Bar - Desktop/tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40BA204D-EA1B-4BB1-A3D1-9D20214A1B11",
+      "overrideName": "2C97A401-6662-4FA9-AF1B-3CA98467C2A7_stringValue",
+      "value": "Sites"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE08A22C-1EBC-48D0-9D42-E78A03D151AB",
+      "overrideName": "87031D66-9C14-4504-853A-4016A452E575_stringValue",
+      "value": "No alerts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74D9C28F-BC6F-48FC-970B-192E4E9B560E",
+      "overrideName": "1B187134-D8C5-48FE-9908-11F351CD6573_stringValue",
+      "value": "2 offline, 2 alerts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94F60375-E0E6-4AA6-BCCF-BD26C6170C90",
+      "overrideName": "88D3206C-E682-40A8-B40E-2AE26EECFEAE_stringValue",
+      "value": "14 offline, 16 alerts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "918FF4FB-4531-4E0C-AEE7-5EFA52CE2413",
+      "overrideName": "2F988F0A-C17A-4E5E-B2D2-1565DCDAC017_stringValue",
+      "value": "Map"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "793DA7E9-20AC-4E3C-B1B6-3AC8330368C3",
+      "overrideName": "02BDB551-1F33-4242-B0E9-31596CEEEA5E_stringValue",
+      "value": "4 offline, 1 alerts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1ADFA5A-70D2-48F5-8508-9D5C455DEDE3",
+      "overrideName": "4ACA4280-AAC9-4E16-8E2B-FE95A0743B1B/FE089AE2-C550-4842-8092-B55709F39F9E_stringValue",
+      "value": "Offline"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE32A801-0C1E-44B3-B6A7-2E1F6922614E",
+      "overrideName": "F16D9558-3A76-415C-AC07-FD17AAB99577_stringValue",
+      "value": "4 favorites offline, 1 issue"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8B4C81B-B7DA-4830-B440-8FC430D5D15F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,121 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C24AE4EA-43AE-4B4F-8455-CFF80CCF1FE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C114A78-8D1C-4866-A572-CB6CB433B14D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B98E255B-C697-4250-8E17-9386D2324FAB",
+    "height": 534,
+    "width": 375,
+    "x": 0,
+    "y": 71
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Side Bar - iPhone",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7645AF2-84C6-4318-8255-20BAB0215CCE",
+      "overrideName": "D7E1199F-8DDF-4AA3-9877-EB92E3205B8D_stringValue",
+      "value": "Search Sites"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D6FCF73-A671-4A6A-B0FD-9B65A01A8993",
+      "overrideName": "E930A472-E481-4342-A05A-C78507CD1F34_stringValue",
+      "value": "Filter Sites"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56E0A0E2-2860-46F2-973D-0481785BBA94",
+      "overrideName": "C5062D2B-F023-439F-8177-FEB9E85E9B6D_stringValue",
+      "value": "3 offline, 8 alerts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B69DDD9-88C9-4D15-96AF-68F5F559B751",
+      "overrideName": "A828A87C-5A85-4CA5-B3F0-B59976E7DADB_stringValue",
+      "value": "Offline"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9AB1A5A7-3785-45DF-950D-2CC9B52C7B78",
+      "overrideName": "D835DB21-DD05-4F0C-A452-9AA6578359BA_stringValue",
+      "value": "Johnson Home"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FD7157FC-9DB2-4AB6-B807-1E1D793080AB",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8B1A589-0AC4-4340-8027-5D8C8558D912",
+  "verticalSpacing": 0
+}

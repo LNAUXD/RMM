@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F5BCF00-E6F5-40C2-9653-893406A31578",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E12B8D7-5681-45E8-A59D-1F4CCE32523A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E7A25CF-C88B-4534-B000-EC4420D19F3B",
+    "height": 173,
+    "width": 189,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0D5F7482-061C-427C-83EE-4A8FEB5E6FB6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2A353FB7-F37E-4B0B-9E52-F84519ACAA20"
+    },
+    {
+      "class": "text",
+      "id": "A992D14F-F874-47FC-8EFE-A6863C63644B"
+    },
+    {
+      "class": "text",
+      "id": "9C4DBE78-7F5C-4D18-A4AD-E2AF8CC048D7"
+    },
+    {
+      "class": "text",
+      "id": "E32F752C-7DB7-44DC-BE9A-6285B9119C1B"
+    },
+    {
+      "class": "text",
+      "id": "8BD10B43-646D-4783-A43D-4AD4F98F4A5F"
+    },
+    {
+      "class": "text",
+      "id": "7359DAD2-FE10-4326-80AA-4525CCADF163"
+    },
+    {
+      "class": "text",
+      "id": "AB08C9B6-CD33-4152-AFC2-A3F577D6FD92"
+    },
+    {
+      "class": "text",
+      "id": "57C7BFE8-7A74-44DA-A704-9D0352A91762"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F09D9F3-3B9B-455C-90CC-8E2DFACB7D78"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0F2F820-8B24-4A75-A3AE-78D5816297C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "0BD8D8CB-CF13-4F8C-BDC4-00A5783CD23F"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Site pop-up Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B64CC0A1-7709-4579-9C4F-3D1634CCDE7B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

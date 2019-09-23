@@ -1,0 +1,176 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "95258629-D247-4B59-906E-303888D36D03",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D47A62F3-A9AC-4FAB-A9C2-47DEE9DA6663",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6143897-4F64-4E64-BB36-14CF7C945081",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF1782DA-A491-4D17-B379-6F8FBEE0DA85",
+    "height": 941,
+    "width": 375,
+    "x": 1627,
+    "y": 1995
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9F09BFE0-6DA4-426B-9E65-C98DE0FD7CAA"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3255FB47-32A6-40CC-A5F8-40BF680344F5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "538024A7-2A2E-4648-B59F-9EA69051D9AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8B84131-D32A-4168-A651-62E48F244C08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B58A521-E706-4550-AF25-DADABDC25422"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B1022B3-DB49-45BC-9A5B-8DF59B584300"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "506805C3-26B1-427E-9884-EB49D96B84D4"
+    },
+    {
+      "class": "group",
+      "id": "83C2E5B0-D877-4B86-B21E-561111FAD102"
+    },
+    {
+      "class": "group",
+      "id": "F210C3ED-9A47-48B1-AA93-84B7DE37CA6F"
+    },
+    {
+      "class": "rectangle",
+      "id": "96F1413A-1099-42C1-B42C-A57C8B200E35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63FFE246-1096-46BF-9FC9-15E02BB63306"
+    },
+    {
+      "class": "text",
+      "id": "EC87B2E0-E643-41F2-B102-34C2E471E666"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 77.75,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "maintainScrollPosition": false,
+  "name": "iPhone - Edit",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7AE2E4AD-DB27-41D1-B23A-F99D35A5929B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0E163F6-6222-4AC6-AFB2-EBC4237B5AB7",
+    "guides": [
+    ]
+  }
+}

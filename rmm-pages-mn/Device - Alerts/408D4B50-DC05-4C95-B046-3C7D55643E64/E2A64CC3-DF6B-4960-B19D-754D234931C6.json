@@ -1,0 +1,43 @@
+{
+  "_class": "MSImmutableHotspotLayer",
+  "booleanOperation": -1,
+  "do_objectID": "E2A64CC3-DF6B-4960-B19D-754D234931C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96603CC8-56B0-418D-AB12-842E6E3CA065",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "4F03DABB-252C-4D13-B7B2-52715576904C",
+    "do_objectID": "C4B411DD-8309-4ACB-AA37-1C9D1CCD1F50"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A69A684-7BCE-4F66-A54D-C795F35DFB2F",
+    "height": 40,
+    "width": 154,
+    "x": 857,
+    "y": 90
+  },
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Hotspot",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}
